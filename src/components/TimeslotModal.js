@@ -55,6 +55,7 @@ const TimeslotModal = ({appointment, dispatch, onHide}) => {
 						<Form.Control
 							type="tel"
 							pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}"
+                            title="Phone Number should be of this Format XXX-XXX-XXXX"
 							placeholder="Enter Phone Number"
 							name="phoneNumber"
 							required
