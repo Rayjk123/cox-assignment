@@ -1,0 +1,4 @@
+export const ADD_APPOINTMENT = "ADD_APPOINTMENT";
+export const SHOW_APPOINTMENT = "SHOW_APPOINTMENT";
+export const SHOW_MODAL = "SHOW_MODAL";
+export const HIDE_MODAL = "HIDE_MODAL";
